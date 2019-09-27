@@ -1,0 +1,14 @@
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\MyContex.dll.config
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\MyContex.dll
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\MyContex.pdb
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\EntityFramework.dll
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\EntityFramework.SqlServer.dll
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\Model.dll
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\Model.pdb
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\EntityFramework.xml
+H:\Work\Croos-null\code\Cross-null\MyContex\bin\Debug\EntityFramework.SqlServer.xml
+H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.csprojAssemblyReference.cache
+H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.csproj.CoreCompileInputs.cache
+H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.csproj.CopyComplete
+H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.dll
+H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.pdb
