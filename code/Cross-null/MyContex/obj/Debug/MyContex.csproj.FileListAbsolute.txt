@@ -12,3 +12,16 @@ H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.csproj.CoreCompil
 H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.csproj.CopyComplete
 H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.dll
 H:\Work\Croos-null\code\Cross-null\MyContex\obj\Debug\MyContex.pdb
+E:\Cross-null\MyContex\bin\Debug\MyContex.dll.config
+E:\Cross-null\MyContex\bin\Debug\MyContex.dll
+E:\Cross-null\MyContex\bin\Debug\MyContex.pdb
+E:\Cross-null\MyContex\bin\Debug\EntityFramework.dll
+E:\Cross-null\MyContex\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cross-null\MyContex\bin\Debug\Model.dll
+E:\Cross-null\MyContex\bin\Debug\Model.pdb
+E:\Cross-null\MyContex\bin\Debug\EntityFramework.xml
+E:\Cross-null\MyContex\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cross-null\MyContex\obj\Debug\MyContex.csprojAssemblyReference.cache
+E:\Cross-null\MyContex\obj\Debug\MyContex.csproj.CopyComplete
+E:\Cross-null\MyContex\obj\Debug\MyContex.dll
+E:\Cross-null\MyContex\obj\Debug\MyContex.pdb

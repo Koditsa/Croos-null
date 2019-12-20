@@ -1,6 +1,11 @@
-H:\Work\Croos-null\code\Cross-null\Model\obj\Debug\Model.csprojAssemblyReference.cache
 H:\Work\Croos-null\code\Cross-null\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 H:\Work\Croos-null\code\Cross-null\Model\bin\Debug\Model.dll
 H:\Work\Croos-null\code\Cross-null\Model\bin\Debug\Model.pdb
 H:\Work\Croos-null\code\Cross-null\Model\obj\Debug\Model.dll
 H:\Work\Croos-null\code\Cross-null\Model\obj\Debug\Model.pdb
+H:\Work\Croos-null\code\Cross-null\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Cross-null\Model\bin\Debug\Model.dll
+E:\Cross-null\Model\bin\Debug\Model.pdb
+E:\Cross-null\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Cross-null\Model\obj\Debug\Model.dll
+E:\Cross-null\Model\obj\Debug\Model.pdb

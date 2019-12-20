@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -21,4 +22,163 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+/*My create stiles *(Timofei)*/
+#game {
+    width: 35%;
+    height: 65%;
+    background-repeat: no-repeat;
+    margin-left: 400px;
+    margin-top: 75px;
+    padding-top: 70px;
+    padding-left: 60px;
+    margin-right: 250px;
+    position: fixed;
+    z-index: 1;
+    background-image: url('images/game.png');
+}
+
+.logo {
+    background-image: url('images/logo.png');
+    height: 23%;
+    width: 27%;
+    background-repeat: no-repeat;
+    margin-left: 490px;
+    margin-top: 0;
+    position: fixed;
+    z-index: 2;
+}
+
+.block {
+    width: 120px;
+    height: 120px;
+    float: left;
+    box-sizing: border-box;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.push_pig {
+    background-image: url('images/green_pig.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+.push_bird {
+    background-image: url('images/red_bird.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}
+
+#background {
+    background-image: url('images/background.png');
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-color: #131112;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.modal-pregame {
+    background-color: rgba(0,0,0,0);
+    margin: 0% auto;
+    position: fixed;
+    margin-left: 275px;
+    background-repeat: no-repeat;
+    width: 58%;
+    height: 100%;
+    background-image: url('images/pregame.png');
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.gamer {
+    clear: both;
+    margin-top: 395px;
+    position: relative;
+    width: 20%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button_menu {
+    background-image: url('images/button_menu.png');
+    height: 8%;
+    width: 8%;
+    background-repeat: no-repeat;
+    margin-left: 620px;
+    margin-top: 510px;
+    position: fixed;
+    z-index: 2;
+    display: none;
+}
+
+.modal-menu {
+    background-color: rgba(0,0,0,0);
+    margin: 0% auto;
+    position: fixed;
+    margin-left: 275px;
+    background-repeat: no-repeat;
+    width: 58%;
+    height: 100%;
+    background-image: url('images/menu.png');
+}
+
+.block_btn {
+    width: 32%;
+    height: 12%;
+    margin-top: 395px;
+    margin-left: 275px;
+}
+
+.home {
+    clear: both;
+    width: 32%;
+    height: 100%;
+    display: inline-block;
+}
+
+.regamer {
+    clear: both;
+    width: 32%;
+    height: 100%;
+    display: inline-block;
+}
+
+.statistic {
+    clear: both;
+    width: 32%;
+    height: 100%;
+    display: inline-block;
+}
+
+.back_btn {
+    background-image: url('images/back.png');
+    width: 8%;
+    height: 8%;
+    margin-left: 630px;
+    margin-top: 455px;
+    position: fixed;
+    z-index: 3;
+    display: none;
 }
